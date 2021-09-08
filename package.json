@@ -32,10 +32,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:eddybordi/strapi-provider-email-sendinblue.git"
+    "url": "git@github.com:Tadynas/strapi-provider-email-sendinblue.git"
   },
   "bugs": {
-    "url": "https://github.com/eddybordi/strapi-provider-email-sendinblue/issues"
+    "url": "https://github.com/Tadynas/strapi-provider-email-sendinblue/issues"
   },
   "engines": {
     "node": ">= 10.0.0",
